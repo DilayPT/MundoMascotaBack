@@ -107,6 +107,8 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 | Nombre | Rol |
 |---|---|
 | Dylan Perez Tirado | Backend |
-| Integrante 2 | Backend |
-| Integrante 3 | Frontend |
-| Integrante 4 | Frontend |
+| Esteban Osorio | Backend |
+| Kevin Perea | Frontend |
+| James Seguro | Frontend |
+| Jesus Barrios | Frontend |
+| Luna Ocampo | SQL |
